@@ -1,0 +1,9 @@
+Copyright (c) 2025 Adrianamusic / creativelive.com / rixi2203
+
+This software and invention is protected by copyright, patent (pending), and trademark law.
+All rights reserved.
+
+Permission is granted for non-commercial use, evaluation, and contribution only.
+Commercial use, distribution, or modification without explicit written permission is prohibited.
+
+For full legal details, refer to NOTICE.md.
